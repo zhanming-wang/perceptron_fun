@@ -24,6 +24,6 @@ def forward(input_data, weight):
 
 
 #   Update Weight
-def weight_train(weight, epoch, learning_rate):
-    for ep in range(epoch):
+#def weight_train(weight, epoch, learning_rate):
+#    for ep in range(epoch):
 
